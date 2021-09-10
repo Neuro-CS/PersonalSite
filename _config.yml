@@ -7,13 +7,13 @@ url: ''
 baseurl: 
 
 # Title of the Site
-title: Cameron Smith Profile
+title: Cameron Smith
 # Description of the Site
 description: A personal site for neuroscience, data science, and curiosity
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
-site-keywords: Neuroscience, Data, Computational, Software
+site-keywords: Neuroscience, Data, Computation, Software
 # URL for the Image of custom Favicon
 favicon-url: 
 
@@ -26,9 +26,9 @@ email:
 facebook_username: 
 twitter_username: neuro_cam
 instagram_username: PossiblyFractal
-linkedin_username: thedevslot
+linkedin_username: cameronrlsmith
 github_username:  Neuro-CS
-youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
+youtube_channel_id: 
 reddit_username: 
 behance_username: 
 dribbble_username: 
