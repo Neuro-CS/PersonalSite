@@ -1,12 +1,19 @@
+<section class="hero is-halfheight" id="blog">
+        <div class="hero-body">
+            <div class="container">
+                {% include blogpage-heading.html %}
+            </div>
+        </div>
+        <div id="results-container"></div>
+        <!--Blog Cards Section-->
+        {% for post in site.posts %}
+            {% include blog-card2.html %}
+        {% endfor %}
+        </div>
+    </section>
 <section class="hero is-small has-text-centered" id="contact">
     <div class="hero-body">
         <div class="container">
-			<div id="results-container"></div>
-			<!--Blog Cards Section-->
-			{% for post in site.posts %}
-				{% include blog-card2.html %}
-			{% endfor %}
-			</div>
             {% unless site.facebook_username == %}
             <a id="contact-button" href="https://m.me/{{site.facebook_username}}"
                 class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
