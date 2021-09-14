@@ -78,7 +78,10 @@ a.navbar-item.is-active {
         }
     }
 
-
+    .button {
+        min-width: 25vmax;
+        margin: 0.5rem;
+    }
 }
 
 #contact {
