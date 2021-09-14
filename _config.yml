@@ -4,7 +4,7 @@ markdown: kramdown
 # URL of the Site
 url: ''
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: 
+baseurl: PersonalSite
 
 # Title of the Site
 title: Cameron L Smith
@@ -18,7 +18,7 @@ site-keywords: Neuroscience, Data, Computation, Software
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: /PersonalSite/assets/images/transport.jpg
+heroimage: https://raw.githubusercontent.com/Neuro-CS/PersonalSite/main/assets/images/transport.jpg
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
