@@ -45,7 +45,7 @@ author-name: Cameron Smith
 # URL for the Image of the Author
 author-image: https://avatars.githubusercontent.com/u/37383343?v=4
 # 60 Words About the Author
-author-about: I am Cameron Smith, a PhD candidate at Baylor College of Medicine in the Center for Neuroscience and Artificial Intelligence and Department of Neuroscience. <br><br> I work in the <a href="https://www.bcm.edu/research/faculty-labs/jacob-reimer-lab">Reimer Lab</a> on neuromodulation, big data, and glia. My research looks at the role of astrocytes in alertness and circuit function by leveraging techniques from machine learning and data science. <br><br> I deeply value science outreach, and I regularly talk to high school classes and stream educational content. Feel free to get in touch!
+author-about: I am Cameron Smith, a PhD candidate at Baylor College of Medicine in the Center for Neuroscience and Artificial Intelligence and Department of Neuroscience. <br><br> I work in the<a target="_blank" rel="noopener noreferrer" href="https://www.bcm.edu/research/faculty-labs/jacob-reimer-lab">Reimer Lab</a>on neuromodulation, big data, and glia. My research looks at the role of astrocytes in alertness and circuit function by leveraging techniques from machine learning and data science. Other projects include reconstructing the mouse visual cortex to improve AI design in the<a target="_blank" rel="noopener noreferrer" href="https://www.microns-explorer.org/">MICrONS collaboration.</a><br><br> I deeply value science outreach, and I regularly talk to high school classes and stream educational content. Feel free to get in touch!
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/Neuro-CS
 
