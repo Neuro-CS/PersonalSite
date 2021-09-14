@@ -7,7 +7,7 @@ url: ''
 baseurl: 
 
 # Title of the Site
-title: Cameron L. Smith
+title: Cameron L Smith
 # Description of the Site
 description: A personal site for neuroscience, data science, and curiosity
 # URL of Image of the Site
@@ -45,7 +45,7 @@ author-name: Cameron Smith
 # URL for the Image of the Author
 author-image: https://avatars.githubusercontent.com/u/37383343?v=4
 # 60 Words About the Author
-author-about: Systems and computational neuroscientist working on neuromodulation, big data, and glia.
+author-about: Systems and computational neuroscientist working on neuromodulation, big data, and glia. <br> This is a test of linebreaks. <a href="http://www.google.com">Link Test</a>.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/Neuro-CS
 
